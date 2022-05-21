@@ -1,0 +1,34 @@
+Kontynent,Powierzchnia,Populacja,Morze,Jedzenie,Alfabet,Ustroj,Kraj
+Europa,330,40,Tak,Bigos,lacinski,republika,Polska
+Europa,310,60,Tak,Pizza,romanski,republika,Wlochy
+Europa,360,90,Tak,CurryWurst,lacinski,republika,Niemcy
+Europa,70,3,Tak,chlodnik,lacinski,republika,Litwa
+Europa,70,2,Tak,chlodnik,lacinski,republika,Lotwa
+Europa,610,50,Tak,pierogi,cyrylica,republika,Ukraina
+Azja,17100,150,Tak,pierogi,cyrylica,republika,Rosja
+Ameryka Polnocna,10000,330,Tak,fastfoody,lacinski,republika,USA
+Europa,100,11,Tak,brak,romanski,republika,Portugalia
+Azja,10000,1410,Tak,sajgonki,obrazkowy,komuna,Chiny
+Azja,380,130,Tak,sushi,obrazkowy,monarchia,Japonia
+Europa,110,1,Tak,skyr,lacinski,republika,Islandia
+Australia,270,6,Tak,malze,lacinski,monarchia,Nowa Zelandia
+Afryka,500,30,Tak,brak,lacinski,republika,Kamerun
+Afryka,1230,60,Tak,brak,lacinski,republika,RPA
+Ameryka Poludniowa,2780,50,Tak,Empenad,lacinski,republika,Argentyna
+Ameryka Poludniowa,1100,20,Nie,Empenad,lacinski,republika,Boliwia
+Ameryka Poludniowa,8520,220,Tak,brak,lacinski,republika,Brazylia
+Europa,10,2,Tak,halloumi,grecki,republika,Cypr
+Ameryka Polnocna,10000,40,Tak,syrop klonowy,lacinski,monarchia,Kanada
+Australia,7700,30,Tak,kangur,lacinski,monarchia,Australia
+Azja,1230,4,Nie,tsampa,obrazkowy,monarchia,Tybet
+Europa,3,1,Tak,brak,romanski,monarchia,Monako
+Azja,130,30,Tak,kimchi,obrazkowy,komuna,Korea Polnocna
+Azja,240,8,Nie,owady,obrazkowy,komuna,Laos
+Azja,340,98,Tak,sajgonki,lacinski,komuna,Wietnam
+Ameryka Polnocna,120,12,Tak,brak,lacinski,komuna,Kuba
+Europa,210,10,Nie,barszcz,cyrylica,republika,Bialorus
+Europa,90,9,Nie,brak,lacinski,republika,Austria
+Europa,80,11,Nie,gulasz,lacinski,republika,Czechy
+Afryka,80,11,Nie,gulasz,lacinski,republika,Kongo
+Europa,140,11,Tak,suflaki,grecki,republika,Grecja
+Europa,550,68,Tak,croissant,romanski,republika,Francja
